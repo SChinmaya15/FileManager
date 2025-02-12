@@ -1,0 +1,13 @@
+27-01-2025 11:56:21 +05:30 [Error] Error in file system monitoring    at System.IO.FileSystemWatcher.CheckPathValidity(String path)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at FileSystemMonitor.Core.Services.FileSystemMonitorService.InitializeWatchers(String path) in C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\Services\FileSystemMonitorService.cs:line 55
+   at FileSystemMonitor.Core.Services.FileSystemMonitorService..ctor(String path, IFileActivityLogger logger, IKafkaProducer kafkaProducer, Int32 batchSize, Int32 batchTimeoutMs) in C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\Services\FileSystemMonitorService.cs:line 46
+   at FileSystemMonitor.Core.Services.WindowsBackgroundService.StartMonitoringAsync(MonitorSettings settings, CancellationToken stoppingToken) in C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\Services\WindowsBackgroundService.cs:line 98
+   at FileSystemMonitor.Core.Services.WindowsBackgroundService.ExecuteAsync(CancellationToken stoppingToken) in C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\Services\WindowsBackgroundService.cs:line 62
+27-01-2025 11:56:21 +05:30 [Information] Attempting to restart monitoring in 30 seconds... 
+27-01-2025 11:56:21 +05:30 [Information] Application started. Press Ctrl+C to shut down. 
+27-01-2025 11:56:21 +05:30 [Information] Hosting environment: Production 
+27-01-2025 11:56:21 +05:30 [Information] Content root path: C:\Dev\FileWatcher\FileWatcher\FileWatcher\bin\Debug\net8.0 
+27-01-2025 12:26:50 +05:30 [Information] File system monitoring started for path: C:\MonitoredFolder 
+27-01-2025 12:32:21 +05:30 [Information] File system monitoring started for path: C:\MonitoredFolder 
+27-01-2025 13:11:48 +05:30 [Information] File system monitoring started for path: C:\MonitoredFolder 

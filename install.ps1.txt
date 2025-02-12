@@ -1,0 +1,22 @@
+$serviceName = "FileSystemMonitorService"
+$serviceDisplayName = "File System Monitor Service"
+$serviceDescription = "Monitors file system changes and logs activities"
+$exePath = Join-Path $PSScriptRoot "FileSystemMonitor.exe"
+
+# Check if service exists
+if (Get-Service $serviceName -ErrorAction SilentlyContinue) {
+    # Stop and remove existing service
+    Stop-Service $serviceName
+    $service = Get-WmiObject -Class Win32_Service -Filter "name='$serviceName'"
+    $service.delete()
+}
+
+# Create and start new service
+New-Service -Name $serviceName `
+    -DisplayName $serviceDisplayName `
+    -Description $serviceDescription `
+    -BinaryPathName $exePath `
+    -StartupType Automatic
+
+# Start the service
+Start-Service $serviceName

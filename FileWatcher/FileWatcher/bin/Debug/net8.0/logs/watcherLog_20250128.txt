@@ -1,0 +1,1 @@
+28-01-2025 14:14:29 +05:30 [Information] File system monitoring started for path: C:\MonitoredFolder 

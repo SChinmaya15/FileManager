@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\FileWatcher\\FileWatcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\services\\filesystemmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\services\\filesystemmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\services\\fileactivitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\services\\fileactivitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5DF513-9BD5-4F5C-B33F-44AE18DAC089}|FileWatcher\\FileWatcher.csproj|c:\\dev\\filewatcher\\filewatcher\\filewatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5DF513-9BD5-4F5C-B33F-44AE18DAC089}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\models\\fileactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\models\\fileactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\services\\windowsbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\services\\windowsbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\interfaces\\ifileactivitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\interfaces\\ifileactivitylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5DF513-9BD5-4F5C-B33F-44AE18DAC089}|FileWatcher\\FileWatcher.csproj|c:\\dev\\filewatcher\\filewatcher\\filewatcher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC5DF513-9BD5-4F5C-B33F-44AE18DAC089}|FileWatcher\\FileWatcher.csproj|solutionrelative:filewatcher\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\models\\monitorsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\models\\monitorsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\services\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\services\\fileloggerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\services\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\interfaces\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\interfaces\\ikafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\models\\fileactivitybatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\models\\fileactivitybatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|c:\\dev\\filewatcher\\filewatcher\\filesystemmonitor.core\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC9AED6-E130-4A28-92BC-3B0D695E05C6}|FileSystemMonitor.Core\\FileSystemMonitor.Core.csproj|solutionrelative:filesystemmonitor.core\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileActivityLogger.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileActivityLogger.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Services\\FileActivityLogger.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileActivityLogger.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Services\\FileActivityLogger.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA2wCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:36:32.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowsBackgroundService.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\WindowsBackgroundService.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Services\\WindowsBackgroundService.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\WindowsBackgroundService.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Services\\WindowsBackgroundService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswGEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:30:38.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileSystemMonitorService.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileSystemMonitorService.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Services\\FileSystemMonitorService.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileSystemMonitorService.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Services\\FileSystemMonitorService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAswOoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:33:29.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IFileActivityLogger.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Interfaces\\IFileActivityLogger.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Interfaces\\IFileActivityLogger.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Interfaces\\IFileActivityLogger.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Interfaces\\IFileActivityLogger.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:35:42.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileWatcher\\Program.cs",
+              "RelativeDocumentMoniker": "FileWatcher\\Program.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileWatcher\\Program.cs",
+              "RelativeToolTip": "FileWatcher\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:17:53.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MonitorSettings.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Models\\MonitorSettings.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Models\\MonitorSettings.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Models\\MonitorSettings.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Models\\MonitorSettings.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:29:13.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileWatcher\\appsettings.json",
+              "RelativeDocumentMoniker": "FileWatcher\\appsettings.json",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileWatcher\\appsettings.json",
+              "RelativeToolTip": "FileWatcher\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-27T05:41:33.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FileActivity.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Models\\FileActivity.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Models\\FileActivity.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Models\\FileActivity.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Models\\FileActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:35:01.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileLoggerProvider.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileLoggerProvider.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Services\\FileLoggerProvider.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileLoggerProvider.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Services\\FileLoggerProvider.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA0wBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:09:20.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileLogger.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Services\\FileLogger.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\FileLogger.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Services\\FileLogger.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAvwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T06:07:52.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileActivityBatch.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Models\\FileActivityBatch.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Models\\FileActivityBatch.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Models\\FileActivityBatch.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Models\\FileActivityBatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:32:56.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IKafkaProducer.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Interfaces\\IKafkaProducer.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Interfaces\\IKafkaProducer.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Interfaces\\IKafkaProducer.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Interfaces\\IKafkaProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:36:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "FileSystemMonitor.Core\\Services\\KafkaProducerService.cs",
+              "ToolTip": "C:\\Dev\\FileWatcher\\FileWatcher\\FileSystemMonitor.Core\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "FileSystemMonitor.Core\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T05:36:55.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

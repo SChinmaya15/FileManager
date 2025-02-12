@@ -1,0 +1,12 @@
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\bin\Debug\net8.0\FileSystemMonitor.Core.deps.json
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\bin\Debug\net8.0\FileSystemMonitor.Core.dll
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\bin\Debug\net8.0\FileSystemMonitor.Core.pdb
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.csproj.AssemblyReference.cache
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.AssemblyInfoInputs.cache
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.AssemblyInfo.cs
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.csproj.CoreCompileInputs.cache
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.dll
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\refint\FileSystemMonitor.Core.dll
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\FileSystemMonitor.Core.pdb
+C:\Dev\FileWatcher\FileWatcher\FileSystemMonitor.Core\obj\Debug\net8.0\ref\FileSystemMonitor.Core.dll
